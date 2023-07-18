@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 411a27d546803044ab17                            #生成的clientID
   clientSecret: d25a4f054e96d0b66c9e298768978b788bc3308d    #生成的clientSecret
   repo: wgsxsm.github.io    #仓库名称
